@@ -117,12 +117,12 @@ async def Lazy_start():
                 reply_markup=InlineKeyboardMarkup(
                     [
                         [
-                            InlineKeyboardButton("🍿supp⊕r† gr⊕up", url="https://t.me/mnbots_Support"),
-                            InlineKeyboardButton("🔊ß⊕†s chαηηεl", url="https://t.me/mnbots")
+                            InlineKeyboardButton("• sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ •", url="https://t.me/mnbots_Support"),
+                            InlineKeyboardButton("• ʙᴏᴛs ᴄʜᴀɴɴᴇʟ  •", url="https://t.me/mnbots")
                         ],
                         [
-                            InlineKeyboardButton("🤖Aß⊕ut ß⊕†", callback_data="aboutbot"),
-                            InlineKeyboardButton("♥️Aß⊕ut Đ€V", callback_data="aboutdevs")
+                            InlineKeyboardButton("• ᴀʙᴏᴜᴛ ʙᴏᴛ •", callback_data="aboutbot"),
+                            InlineKeyboardButton("• ᴀʙᴏᴜᴛ ᴅᴇᴠ •", callback_data="aboutdevs")
                         ],
                         [
                             InlineKeyboardButton("⎝⎝✧✧ ᴡᴀᴛᴄʜ ᴛᴜᴛᴏʀɪᴀʟ ✧✧⎠⎠", url="https://youtube.com")
